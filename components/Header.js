@@ -26,7 +26,7 @@ export default () => {
 
           <div className="relative flex flex-wrap items-center justify-between w-2/3 lg:w-2/5">
             <Link href="/products">
-              <p className="px-2 lg:px-5 py-2 flex items-center text-md  font-bold leading-snug text-white hover:opacity-75">
+              <p className="cursor-pointer px-2 lg:px-5 py-2 flex items-center text-md  font-bold leading-snug text-white hover:opacity-75">
                 Produtos
               </p>
             </Link>

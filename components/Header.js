@@ -35,6 +35,7 @@ export default () => {
               className="px-2 lg:px-5 py-2 flex items-center text-md  font-bold leading-snug text-white hover:opacity-75"
               href="https://patrux08.github.io/a-simple-anki-deck/"
               target="_blank"
+              rel="noreferrer"
             >
               Extra
             </a>
